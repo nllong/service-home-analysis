@@ -1,0 +1,645 @@
+[openstudio.runmanager.RunManager] <-1> Time to load for uuid: {a5fc38b2-2f9c-49aa-94d9-70fae8896131} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse tools for uuid: {a5fc38b2-2f9c-49aa-94d9-70fae8896131} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse params for uuid: {a5fc38b2-2f9c-49aa-94d9-70fae8896131} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse files for uuid: {a5fc38b2-2f9c-49aa-94d9-70fae8896131} 0
+[openstudio.runmanager.RunManager] <-1> Time to load for uuid: {228e8563-fb79-49aa-9020-09bcd3aa6a3b} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse tools for uuid: {228e8563-fb79-49aa-9020-09bcd3aa6a3b} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse params for uuid: {228e8563-fb79-49aa-9020-09bcd3aa6a3b} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse files for uuid: {228e8563-fb79-49aa-9020-09bcd3aa6a3b} 0
+[openstudio.runmanager.RunManager] <-1> Time to load for uuid: {c8bb12bc-64db-4e91-8650-ee2cfd141249} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse tools for uuid: {c8bb12bc-64db-4e91-8650-ee2cfd141249} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse params for uuid: {c8bb12bc-64db-4e91-8650-ee2cfd141249} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse files for uuid: {c8bb12bc-64db-4e91-8650-ee2cfd141249} 0
+[openstudio.runmanager.RunManager] <-1> Time to load for uuid: {1ebad424-a27a-408d-b13b-32000203cc25} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse tools for uuid: {1ebad424-a27a-408d-b13b-32000203cc25} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse params for uuid: {1ebad424-a27a-408d-b13b-32000203cc25} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse files for uuid: {1ebad424-a27a-408d-b13b-32000203cc25} 0
+[openstudio.runmanager.RunManager] <-1> Time to load for uuid: {0d0f9c84-3204-4ba2-a681-df6381f2dbaf} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse tools for uuid: {0d0f9c84-3204-4ba2-a681-df6381f2dbaf} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse params for uuid: {0d0f9c84-3204-4ba2-a681-df6381f2dbaf} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse files for uuid: {0d0f9c84-3204-4ba2-a681-df6381f2dbaf} 0
+[openstudio.LocalLibraryController] <-2> Creating LocalLibraryController with base app 0x7fff59558950
+[utilities.bcl.BCLMeasure] <-2> Loading measures in path: /Applications/OpenStudio 1.5.1/OpenStudio.app/Contents/share/openstudio-1.5.1/pat/Measures/
+[utilities.bcl.BCLMeasure] <-2> Attempting to load measure: /Applications/OpenStudio 1.5.1/OpenStudio.app/Contents/share/openstudio-1.5.1/pat/Measures/CalibrationReports
+[utilities.bcl.BCLMeasure] <-2> Success loading measure: /Applications/OpenStudio 1.5.1/OpenStudio.app/Contents/share/openstudio-1.5.1/pat/Measures/CalibrationReports
+[utilities.bcl.BCLMeasure] <-2> Attempting to load measure: /Applications/OpenStudio 1.5.1/OpenStudio.app/Contents/share/openstudio-1.5.1/pat/Measures/ReplaceModel
+[utilities.bcl.BCLMeasure] <-2> Success loading measure: /Applications/OpenStudio 1.5.1/OpenStudio.app/Contents/share/openstudio-1.5.1/pat/Measures/ReplaceModel
+[utilities.bcl.BCLMeasure] <-2> Attempting to load measure: /Applications/OpenStudio 1.5.1/OpenStudio.app/Contents/share/openstudio-1.5.1/pat/Measures/ReportRequest
+[utilities.bcl.BCLMeasure] <-2> Success loading measure: /Applications/OpenStudio 1.5.1/OpenStudio.app/Contents/share/openstudio-1.5.1/pat/Measures/ReportRequest
+[utilities.bcl.BCLMeasure] <-2> Attempting to load measure: /Applications/OpenStudio 1.5.1/OpenStudio.app/Contents/share/openstudio-1.5.1/pat/Measures/StandardReports
+[utilities.bcl.BCLMeasure] <-2> Success loading measure: /Applications/OpenStudio 1.5.1/OpenStudio.app/Contents/share/openstudio-1.5.1/pat/Measures/StandardReports
+[utilities.bcl.BCLMeasure] <-2> Loading measures in path: /Users/nlong/OpenStudio/Measures
+[utilities.bcl.BCLMeasure] <-2> Attempting to load measure: /Users/nlong/OpenStudio/Measures/donothingbutincludefile
+[utilities.bcl.BCLMeasure] <-2> Success loading measure: /Users/nlong/OpenStudio/Measures/donothingbutincludefile
+[utilities.bcl.BCLMeasure] <-2> Attempting to load measure: /Users/nlong/OpenStudio/Measures/StandardReportsCopy
+[utilities.bcl.BCLMeasure] <-2> Success loading measure: /Users/nlong/OpenStudio/Measures/StandardReportsCopy
+[utilities.bcl.BCLMeasure] <-2> Attempting to load measure: /Users/nlong/OpenStudio/Measures/TestMeasure
+[utilities.bcl.BCLMeasure] <-2> Success loading measure: /Users/nlong/OpenStudio/Measures/TestMeasure
+[utilities.bcl.BCLMeasure] <-2> Attempting to load measure: /Users/nlong/OpenStudio/Measures/thisisameasure
+[utilities.bcl.BCLMeasure] <-2> Success loading measure: /Users/nlong/OpenStudio/Measures/thisisameasure
+[openstudio.model.WeatherFile] <-2> Current path 'files/USA_CO_Boulder-Broomfield-Jefferson.County.AP.724699_TMY3.epw' not complete. After calling system_complete have '/files/USA_CO_Boulder-Broomfield-Jefferson.County.AP.724699_TMY3.epw'.
+[openstudio.model.WeatherFile] <-2> Going to look for '/Users/nlong/working/personal/School/CVEN5830-SBD/Assignment-3/model/04-windows-daylighting/files/USA_CO_Boulder-Broomfield-Jefferson.County.AP.724699_TMY3.epw'.
+[openstudio.model.WeatherFile] <-2> Setting weather file url to file:///Users/nlong/working/personal/School/CVEN5830-SBD/Assignment-3/model/04-windows-daylighting/files/USA_CO_Boulder-Broomfield-Jefferson.County.AP.724699_TMY3.epw
+[openstudio::RunView] <-2> playButtonClicked 1
+[openstudio::RunView] <-2> updateToolsWarnings called
+[openstudio.runmanager.ToolFinder] <-2> Merging Tool: Ruby /System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/bin -.-.-
+[openstudio.utilities.core] <-2> Path '/System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/bin' does not extend base '/Applications/OpenStudio 1.5.1/sharedresources'.
+[openstudio.utilities.core] <-2> Path '/System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/bin' does not extend base '/Applications/OpenStudio 1.5.1/sharedresources'.
+[openstudio.runmanager.ToolFinder] <-2> Existing tool found with same type and version - merging data
+[openstudio.runmanager.ToolFinder] <-2> Merging Tool: EnergyPlus /Applications/EnergyPlus-8-1-0 8.1.0
+[openstudio.utilities.core] <-2> Path '/Applications/EnergyPlus-8-1-0' does not extend base '/Applications/OpenStudio 1.5.1/sharedresources'.
+[openstudio.utilities.core] <-2> Path '/Applications/EnergyPlus-8-1-0' does not extend base '/Applications/OpenStudio 1.5.1/sharedresources'.
+[openstudio.runmanager.ToolFinder] <-2> Checking for NREL_ver /Applications/NREL_ver.txt
+[openstudio.runmanager.ToolFinder] <-2> Checking for NREL_ver /Applications/NREL_ver.txt
+[openstudio.runmanager.ToolFinder] <-2> Existing tool found with same type and version - merging data
+[openstudio::RunView] <-2> updateToolsWarnings called
+[openstudio.runmanager.RubyJobUtils] <1> Input file type is "Unknown" unable to add it.
+[openstudio.runmanager.RubyJobUtils] <-1> Skipping file, already exists as a required file: /Applications/OpenStudio 1.5.1/OpenStudio.app/Contents/share/openstudio-1.5.1/pat/Measures/StandardReports/measure.rb
+[openstudio.runmanager.RubyJobUtils] <-1> Adding input file of type: IDF to be copied to in.idf
+[openstudio.runmanager.RubyJobUtils] <-1> Copying all required files from IDF to IDF
+[openstudio.runmanager.RubyJobUtils] <-1> Skipping file, already exists as a required file: /Applications/OpenStudio 1.5.1/OpenStudio.app/Contents/share/openstudio-1.5.1/pat/Measures/ReportRequest/measure.rb
+[openstudio.runmanager.Workflow] <-2> Creating workflow with outdir /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run infile /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/in.osm epwlocation 
+[openstudio.runmanager.Workflow] <-2> creating workflow
+[openstudio.runmanager.Workflow] <-2> Workflow contains file /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/in.osm
+[openstudio.runmanager.NormalizeURLs] <-2> Analyzing file for URLs to update /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/in.osm
+[openstudio.runmanager.NormalizeURLs] <-2> time to load idf: 0.053538
+[openstudio.runmanager.NormalizeURLs] <-2> Successfully loaded idf file into workspace containing 845 objects
+[utilities.idf.Workspace] <-2> Url found in file: file:files/USA_CO_Boulder-Broomfield-Jefferson.County.AP.724699_TMY3.epw
+[utilities.idf.Workspace] <-2> Url is relative or 'file'
+[utilities.idf.Workspace] <-2> Source URL:  for original URL: file:files/USA_CO_Boulder-Broomfield-Jefferson.County.AP.724699_TMY3.epw
+[utilities.idf.Workspace] <1> URL Found in IDF: file:files/USA_CO_Boulder-Broomfield-Jefferson.County.AP.724699_TMY3.epw but no source could be located.
+[openstudio.runmanager.NormalizeURLs] <-2> time to locate URL's: 0.000234
+[openstudio.runmanager.NormalizeURLs] <-1> No URLs found in input
+[openstudio.runmanager.RunManager] <-1> Enqueuing Job: {219dccd2-f548-486d-8699-f13fa32c008d} Null Job
+[openstudio.runmanager.RunManager] <-1> Enqueuing Job: {eeb2709e-3f64-4d1a-8930-f81171a9aac1} ModelToIdf
+[openstudio.runmanager.RunManager] <-1> Enqueuing Job: {958bc3b1-590e-4d34-8d22-d135843d9a96} ExpandObjects
+[openstudio.runmanager.RunManager] <-1> Enqueuing Job: {0761714b-04ab-4cd4-994c-a1b15827693f} UserScript (UserScriptAdapter.rb)
+[openstudio.runmanager.RunManager] <-1> Enqueuing Job: {5e2aa390-1c8a-4e80-8552-ae379821c724} EnergyPlusPreProcess
+[openstudio.runmanager.RunManager] <-1> Enqueuing Job: {9724eba5-5901-4b44-b59d-b7696a934930} EnergyPlus
+[openstudio.runmanager.RunManager] <-1> Enqueuing Job: {05bce42c-c194-4657-b4c3-d635694bbabe} UserScript (UserScriptAdapter.rb)
+[openstudio.runmanager.RunManager] <-1> Enqueuing Job: {2bb44bb2-befd-4fdd-9b78-bfe0db1f8d21} OpenStudioPostProcess
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/in.osm
+[openstudio.runmanager.Job_Impl] <-2> Returning previously saved outputfiles
+[openstudio.runmanager.RunManager] <-2> (/var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run.db) Persisting job status for {219dccd2-f548-486d-8699-f13fa32c008d}
+[openstudio.runmanager.RunManager] <-2> Deleted previous data job status for {219dccd2-f548-486d-8699-f13fa32c008d}
+[openstudio.runmanager.RunManager] <-2> Not persisting, job has not actually finished {219dccd2-f548-486d-8699-f13fa32c008d}
+[openstudio.runmanager.Job_Impl] <-2> Returning previously saved outputfiles
+[openstudio.runmanager.RunManager] <-2> (/var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run.db) Persisting job status for {eeb2709e-3f64-4d1a-8930-f81171a9aac1}
+[openstudio.runmanager.RunManager] <-2> Deleted previous data job status for {eeb2709e-3f64-4d1a-8930-f81171a9aac1}
+[openstudio.runmanager.RunManager] <-2> Not persisting, job has not actually finished {eeb2709e-3f64-4d1a-8930-f81171a9aac1}
+[openstudio.runmanager.Job_Impl] <-2> Returning previously saved outputfiles
+[openstudio.runmanager.RunManager] <-2> (/var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run.db) Persisting job status for {958bc3b1-590e-4d34-8d22-d135843d9a96}
+[openstudio.runmanager.RunManager] <-2> Deleted previous data job status for {958bc3b1-590e-4d34-8d22-d135843d9a96}
+[openstudio.runmanager.RunManager] <-2> Not persisting, job has not actually finished {958bc3b1-590e-4d34-8d22-d135843d9a96}
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile /Applications/OpenStudio 1.5.1/Ruby/openstudio/runmanager/rubyscripts/UserScriptAdapter.rb
+[openstudio.runmanager.RunManager] <-2> Persisting RequiredFile file:///Applications/OpenStudio 1.5.1/OpenStudio.app/Contents/share/openstudio-1.5.1/pat/Measures/ReportRequest/measure.rb to user_script.rb
+[openstudio.runmanager.Job_Impl] <-2> Returning previously saved outputfiles
+[openstudio.runmanager.RunManager] <-2> (/var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run.db) Persisting job status for {0761714b-04ab-4cd4-994c-a1b15827693f}
+[openstudio.runmanager.RunManager] <-2> Deleted previous data job status for {0761714b-04ab-4cd4-994c-a1b15827693f}
+[openstudio.runmanager.RunManager] <-2> Not persisting, job has not actually finished {0761714b-04ab-4cd4-994c-a1b15827693f}
+[openstudio.runmanager.Job_Impl] <-2> Returning previously saved outputfiles
+[openstudio.runmanager.RunManager] <-2> (/var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run.db) Persisting job status for {5e2aa390-1c8a-4e80-8552-ae379821c724}
+[openstudio.runmanager.RunManager] <-2> Deleted previous data job status for {5e2aa390-1c8a-4e80-8552-ae379821c724}
+[openstudio.runmanager.RunManager] <-2> Not persisting, job has not actually finished {5e2aa390-1c8a-4e80-8552-ae379821c724}
+[openstudio.runmanager.Job_Impl] <-2> Returning previously saved outputfiles
+[openstudio.runmanager.RunManager] <-2> (/var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run.db) Persisting job status for {9724eba5-5901-4b44-b59d-b7696a934930}
+[openstudio.runmanager.RunManager] <-2> Deleted previous data job status for {9724eba5-5901-4b44-b59d-b7696a934930}
+[openstudio.runmanager.RunManager] <-2> Not persisting, job has not actually finished {9724eba5-5901-4b44-b59d-b7696a934930}
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile /Applications/OpenStudio 1.5.1/Ruby/openstudio/runmanager/rubyscripts/UserScriptAdapter.rb
+[openstudio.runmanager.RunManager] <-2> Persisting RequiredFile file:///Applications/OpenStudio 1.5.1/OpenStudio.app/Contents/share/openstudio-1.5.1/pat/Measures/StandardReports/measure.rb to user_script.rb
+[openstudio.runmanager.RunManager] <-2> Persisting RequiredFile file:///Applications/OpenStudio 1.5.1/OpenStudio.app/Contents/share/openstudio-1.5.1/pat/Measures/StandardReports/resources/report.html.in to resources/report.html.in
+[openstudio.runmanager.Job_Impl] <-2> Returning previously saved outputfiles
+[openstudio.runmanager.RunManager] <-2> (/var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run.db) Persisting job status for {05bce42c-c194-4657-b4c3-d635694bbabe}
+[openstudio.runmanager.RunManager] <-2> Deleted previous data job status for {05bce42c-c194-4657-b4c3-d635694bbabe}
+[openstudio.runmanager.RunManager] <-2> Not persisting, job has not actually finished {05bce42c-c194-4657-b4c3-d635694bbabe}
+[openstudio.runmanager.Job_Impl] <-2> Returning previously saved outputfiles
+[openstudio.runmanager.RunManager] <-2> (/var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run.db) Persisting job status for {2bb44bb2-befd-4fdd-9b78-bfe0db1f8d21}
+[openstudio.runmanager.RunManager] <-2> Deleted previous data job status for {2bb44bb2-befd-4fdd-9b78-bfe0db1f8d21}
+[openstudio.runmanager.RunManager] <-2> Not persisting, job has not actually finished {2bb44bb2-befd-4fdd-9b78-bfe0db1f8d21}
+[openstudio.runmanager.RunManager] <-1> RunManager queue paused state changed 0
+[openstudio.runmanager.RunManager] <-1> Starting job locally: {219dccd2-f548-486d-8699-f13fa32c008d} Null Job
+[openstudio.runmanager.Null] <-1> Null starting
+[openstudio.runmanager.RunManager] <-1> Starting job locally: {eeb2709e-3f64-4d1a-8930-f81171a9aac1} ModelToIdf
+[openstudio.runmanager.ModelToIdf] <-1> ModelToIdf starting, filename: /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/in.osm
+[openstudio.runmanager.ModelToIdf] <-1> ModelToIdf starting, outdir: /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/1-ModelToIdf-0
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio.runmanager.Job_Impl] <-2> Emitting job finished: {219dccd2-f548-486d-8699-f13fa32c008d}
+[openstudio.runmanager.Job_Impl] <-2> Date converted: {219dccd2-f548-486d-8699-f13fa32c008d} 2014-Nov-18 22:03:36
+[openstudio.runmanager.Job_Impl] <-2> Done Emitting job finished: {219dccd2-f548-486d-8699-f13fa32c008d}
+[openstudio.osversion.VersionTranslator] <-2> Starting translation from Version 1.5.1.
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio.runmanager.RunManager] <-2> (/var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run.db) Persisting job status for {219dccd2-f548-486d-8699-f13fa32c008d}
+[openstudio.runmanager.RunManager] <-2> Deleted previous data job status for {219dccd2-f548-486d-8699-f13fa32c008d}
+[openstudio.runmanager.RunManager] <-2> Done persisting job, committing {219dccd2-f548-486d-8699-f13fa32c008d}
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio.osversion.VersionTranslator] <-2> Initial model has 845 objects.
+[openstudio.osversion.VersionTranslator] <-2> Final model has 845 objects in IDF form.
+[utilities.idf.Workspace] <-2> Workspace::isValid called.
+[openstudio.osversion.VersionTranslator] <-2> Final model has 845 objects in Model form.
+[openstudio.runmanager.ModelToIdf] <-2> Looking for weather file at ModelObject specified location: files/USA_CO_Boulder-Broomfield-Jefferson.County.AP.724699_TMY3.epw
+[openstudio.runmanager.ModelToIdf] <-2> Completed weatherfile location: files/USA_CO_Boulder-Broomfield-Jefferson.County.AP.724699_TMY3.epw
+[openstudio.runmanager.ModelToIdf] <-2> Attempting to use OSM base path to find weather file
+[openstudio.runmanager.ModelToIdf] <-2> Attempting to use OSM parent path / resources to find weather file
+[openstudio.runmanager.ModelToIdf] <-2> Final selected weatherFile: file:///var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/files/USA_CO_Boulder-Broomfield-Jefferson.County.AP.724699_TMY3.epw
+[openstudio.energyplus.ForwardTranslator] <-1> SpaceType 90.1-2007 - MidriseApartment - Apartment 1 is not referenced by any space, it will not be translated.
+[openstudio.energyplus.ForwardTranslator] <-1> SpaceType 90.1-2007 - MidriseApartment - Office is not referenced by any space, it will not be translated.
+[utilities.idd.IddField] <-1> Field 'Zone Heating Design Supply Air Temperature Input Method' of object 'Sizing:Zone' is both required and has default value, setting required = false.
+[utilities.idd.IddField] <-1> Field 'Zone Cooling Design Supply Air Temperature Input Method' of object 'Sizing:Zone' is both required and has default value, setting required = false.
+[openstudio.energyplus.ForwardTranslator] <0> Unknown IddObjectType: 'OS:ClimateZones'
+[openstudio.energyplus.ForwardTranslator] <0> Unknown IddObjectType: 'OS:ClimateZones'
+[utilities.idd.IddField] <-1> Field 'Column Separator' of object 'OutputControl:Table:Style' is both required and has default value, setting required = false.
+[openstudio.runmanager.Job_Impl] <-2> Emitting job finished: {eeb2709e-3f64-4d1a-8930-f81171a9aac1}
+[openstudio.runmanager.Job_Impl] <-2> Date converted: {eeb2709e-3f64-4d1a-8930-f81171a9aac1} 2014-Nov-18 22:03:36
+[openstudio.runmanager.Job_Impl] <-2> Done Emitting job finished: {eeb2709e-3f64-4d1a-8930-f81171a9aac1}
+[openstudio::RunView] <-2> Tree finished, status is: Waiting
+[openstudio.runmanager.RunManager] <-1> Starting job locally: {958bc3b1-590e-4d34-8d22-d135843d9a96} ExpandObjects
+[openstudio.runmanager.RunManager] <-2> (/var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run.db) Persisting job status for {eeb2709e-3f64-4d1a-8930-f81171a9aac1}
+[openstudio.runmanager.RunManager] <-2> Deleted previous data job status for {eeb2709e-3f64-4d1a-8930-f81171a9aac1}
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile in.idf
+[openstudio.runmanager.ToolBasedJob] <-1> Starting ToolBasedJob: {958bc3b1-590e-4d34-8d22-d135843d9a96}
+[openstudio.runmanager.RunManager] <-2> Persisting RequiredFile file:///var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/files/USA_CO_Boulder-Broomfield-Jefferson.County.AP.724699_TMY3.epw to in.epw
+[openstudio.runmanager.RunManager] <-2> Done persisting job, committing {eeb2709e-3f64-4d1a-8930-f81171a9aac1}
+[openstudio.runmanager.ToolBasedJob] <-1> Starting Tool: expandobjects
+[openstudio.runmanager.WeatherFileFinder] <-2> Location name field from IDF: Site 1
+[openstudio.runmanager.ToolBasedJob] <-1> Requesting Tool: expandobjects version: 8.1.-
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio.runmanager.Tools] <-2> getTool called: expandobjects 8.1.-
+[openstudio.runmanager.Tools] <-2> total tools: 5
+[openstudio.runmanager.Tools] <-2> getAllByName returns 1
+[openstudio.runmanager.Tools] <-2> getAllByVersion returns 1
+[openstudio.runmanager.ToolBasedJob] <-1> Got Tool: expandobjects version: 8.1.0
+[openstudio.runmanager.LocalProcess] <-2> Copying required file from /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/1-ModelToIdf-0/in.idf to /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/2-ExpandObjects-0/in.idf
+[openstudio.runmanager.LocalProcess] <-2> Copying required file from /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/files/USA_CO_Boulder-Broomfield-Jefferson.County.AP.724699_TMY3.epw to /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/2-ExpandObjects-0/in.epw
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio.runmanager.LocalProcess] <-2> Copying required file from /Applications/EnergyPlus-8-1-0/Energy+.idd to /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/2-ExpandObjects-0/Energy+.idd
+[openstudio.runmanager.LocalProcess] <-1> Creating LocalProcess
+[openstudio.runmanager.LocalProcess] <-2> Setting working directory: /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/2-ExpandObjects-0
+[openstudio.runmanager.ToolBasedJob] <-2> Acquired required file: /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/1-ModelToIdf-0/in.idf -> /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/2-ExpandObjects-0/in.idf
+[openstudio.runmanager.ToolBasedJob] <-2> Acquired required file: /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/files/USA_CO_Boulder-Broomfield-Jefferson.County.AP.724699_TMY3.epw -> /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/2-ExpandObjects-0/in.epw
+[openstudio.runmanager.ToolBasedJob] <-2> Acquired required file: Energy+.idd -> /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/2-ExpandObjects-0/Energy+.idd
+[openstudio.runmanager.LocalProcess] <1> Starting LocalProcess: /Applications/EnergyPlus-8-1-0/ExpandObjects
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio.runmanager.ToolBasedJob] <-2> ToolBasedJob processStarted: {958bc3b1-590e-4d34-8d22-d135843d9a96}
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio.runmanager.LocalProcess] <-2> processFinished: 0 0
+[openstudio.runmanager.ToolBasedJob] <-2> ToolBasedJob processFinished: {958bc3b1-590e-4d34-8d22-d135843d9a96} 0 0
+[openstudio.runmanager.ToolBasedJob] <-2> No osresult file found at: /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/2-ExpandObjects-0
+[openstudio.runmanager.ToolBasedJob] <-2> ToolBasedJob processFinished, success: Success
+[openstudio.runmanager.ToolBasedJob] <-2> Last Tool Completed: {958bc3b1-590e-4d34-8d22-d135843d9a96}
+[openstudio::RunView] <-2> Tree finished, status is: Waiting
+[openstudio.runmanager.RunManager] <-1> Starting job locally: {0761714b-04ab-4cd4-994c-a1b15827693f} UserScript (UserScriptAdapter.rb)
+[openstudio.runmanager.ToolBasedJob] <-1> Starting ToolBasedJob: {0761714b-04ab-4cd4-994c-a1b15827693f}
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio.runmanager.RubyJob] <-1> Starting job
+[openstudio.runmanager.RubyJob] <-1> Getting files
+[openstudio.runmanager.RubyJob] <-1> Adding required file /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/1-ModelToIdf-0/in.idf to: in.idf
+[openstudio.runmanager.RubyJob] <-1> Adding required file /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/1-ModelToIdf-0/in.idf to: in-2.idf
+[openstudio.runmanager.RubyJob] <-1> Adding required file /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/in.osm to: in.osm
+[openstudio.runmanager.RubyJobUtils] <-1> Skipping file, already exists as a required file: /Applications/OpenStudio 1.5.1/OpenStudio.app/Contents/share/openstudio-1.5.1/pat/Measures/ReportRequest/measure.rb
+[openstudio.runmanager.RubyJob] <-2> all input files: /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/in.osm
+[openstudio.runmanager.RubyJob] <-2> all input files: /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/1-ModelToIdf-0/in.idf
+[openstudio.runmanager.RubyJob] <-2>    Required File: in.epw
+[openstudio.runmanager.RubyJob] <-2> all input files: /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/2-ExpandObjects-0/stdout
+[openstudio.runmanager.RubyJob] <-2> all input files: /Applications/OpenStudio 1.5.1/Ruby/openstudio/runmanager/rubyscripts/UserScriptAdapter.rb
+[openstudio.runmanager.RubyJob] <-2>    Required File: user_script.rb
+[openstudio.runmanager.RubyJob] <-1> Found last EpwFile 'in.epw' attached to last EnergyPlus Workspace
+[openstudio.runmanager.ToolBasedJob] <1> acquireRequiredFiles: Unable to add file From: '/var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/files/USA_CO_Boulder-Broomfield-Jefferson.County.AP.724699_TMY3.epw' to '/var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/3-UserScript-0/in.epw'. Existing required file from: '/var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/files/USA_CO_Boulder-Broomfield-Jefferson.County.AP.724699_TMY3.epw' to '/var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/3-UserScript-0/in.epw' already exists.
+[openstudio.runmanager.ToolBasedJob] <-2> Examining osm for requirements: /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/in.osm with basepath: 
+[openstudio.runmanager.ToolBasedJob] <-2> OSM dir did not exist, now using basepath: 
+[openstudio.runmanager.ToolBasedJob] <-2> OSM dir did not exist, now using parent resources folder: /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827
+[openstudio.runmanager.ToolBasedJob] <-1> Adding OSM requisite file: /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/files/USA_CO_Boulder-Broomfield-Jefferson.County.AP.724699_TMY3.epw to be installed at: in/files/USA_CO_Boulder-Broomfield-Jefferson.County.AP.724699_TMY3.epw
+[openstudio.runmanager.RubyJob] <-1> Found EpwFile in list of required files 'in.epw' preferred over previous relative location of: in.epw
+[openstudio.runmanager.ToolBasedJob] <-1> Starting Tool: ruby
+[openstudio.runmanager.ToolBasedJob] <-1> Requesting Tool: ruby version: -.-.-
+[openstudio.runmanager.Tools] <-2> getTool called: ruby -.-.-
+[openstudio.runmanager.Tools] <-2> total tools: 5
+[openstudio.runmanager.Tools] <-2> getAllByName returns 1
+[openstudio.runmanager.Tools] <-2> getAllByVersion returns 1
+[openstudio.runmanager.ToolBasedJob] <-1> Got Tool: ruby version: -.-.-
+[openstudio.runmanager.ToolBasedJob] <1> acquireRequiredFiles: Unable to add file From: '/var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/files/USA_CO_Boulder-Broomfield-Jefferson.County.AP.724699_TMY3.epw' to '/var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/3-UserScript-0/in.epw'. Existing required file from: '/var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/files/USA_CO_Boulder-Broomfield-Jefferson.County.AP.724699_TMY3.epw' to '/var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/3-UserScript-0/in.epw' already exists.
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio.runmanager.ToolBasedJob] <-2> Examining osm for requirements: /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/in.osm with basepath: 
+[openstudio.runmanager.Job_Impl] <-2> Emitting job finished: {958bc3b1-590e-4d34-8d22-d135843d9a96}
+[openstudio.runmanager.ToolBasedJob] <-2> OSM dir did not exist, now using basepath: 
+[openstudio.runmanager.Job_Impl] <-2> Date converted: {958bc3b1-590e-4d34-8d22-d135843d9a96} 2014-Nov-18 22:03:36
+[openstudio.runmanager.ToolBasedJob] <-2> OSM dir did not exist, now using parent resources folder: /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827
+[openstudio.runmanager.Job_Impl] <-2> Done Emitting job finished: {958bc3b1-590e-4d34-8d22-d135843d9a96}
+[openstudio.runmanager.ToolBasedJob] <-1> Adding OSM requisite file: /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/files/USA_CO_Boulder-Broomfield-Jefferson.County.AP.724699_TMY3.epw to be installed at: in/files/USA_CO_Boulder-Broomfield-Jefferson.County.AP.724699_TMY3.epw
+[openstudio.runmanager.LocalProcess] <-2> Copying required file from /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/1-ModelToIdf-0/in.idf to /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/3-UserScript-0/in.idf
+[openstudio.runmanager.RunManager] <-2> (/var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run.db) Persisting job status for {958bc3b1-590e-4d34-8d22-d135843d9a96}
+[openstudio.runmanager.RunManager] <-2> Deleted previous data job status for {958bc3b1-590e-4d34-8d22-d135843d9a96}
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile stdout
+[openstudio.runmanager.RunManager] <-2> Done persisting job, committing {958bc3b1-590e-4d34-8d22-d135843d9a96}
+[openstudio.runmanager.LocalProcess] <-2> Copying required file from /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/files/USA_CO_Boulder-Broomfield-Jefferson.County.AP.724699_TMY3.epw to /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/3-UserScript-0/in.epw
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio.runmanager.LocalProcess] <-2> Copying required file from /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/1-ModelToIdf-0/in.idf to /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/3-UserScript-0/in-2.idf
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio.runmanager.LocalProcess] <-2> Copying required file from /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/files/USA_CO_Boulder-Broomfield-Jefferson.County.AP.724699_TMY3.epw to /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/3-UserScript-0/in/files/USA_CO_Boulder-Broomfield-Jefferson.County.AP.724699_TMY3.epw
+[openstudio.runmanager.LocalProcess] <-2> Copying required file from /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/in.osm to /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/3-UserScript-0/in.osm
+[openstudio.runmanager.LocalProcess] <-2> Copying required file from /Applications/OpenStudio 1.5.1/Ruby/openstudio/runmanager/rubyscripts/UserScriptAdapter.rb to /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/3-UserScript-0/in.rb
+[openstudio.runmanager.LocalProcess] <-2> Copying required file from /Applications/OpenStudio 1.5.1/OpenStudio.app/Contents/share/openstudio-1.5.1/pat/Measures/ReportRequest/measure.rb to /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/3-UserScript-0/user_script.rb
+[openstudio.runmanager.LocalProcess] <-1> Creating LocalProcess
+[openstudio.runmanager.LocalProcess] <-2> Setting working directory: /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/3-UserScript-0
+[openstudio.runmanager.ToolBasedJob] <-2> Acquired required file: /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/1-ModelToIdf-0/in.idf -> /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/3-UserScript-0/in.idf
+[openstudio.runmanager.ToolBasedJob] <-2> Acquired required file: /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/files/USA_CO_Boulder-Broomfield-Jefferson.County.AP.724699_TMY3.epw -> /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/3-UserScript-0/in.epw
+[openstudio.runmanager.ToolBasedJob] <-2> Acquired required file: /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/1-ModelToIdf-0/in.idf -> /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/3-UserScript-0/in-2.idf
+[openstudio.runmanager.ToolBasedJob] <-2> Acquired required file: /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/files/USA_CO_Boulder-Broomfield-Jefferson.County.AP.724699_TMY3.epw -> /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/3-UserScript-0/in/files/USA_CO_Boulder-Broomfield-Jefferson.County.AP.724699_TMY3.epw
+[openstudio.runmanager.ToolBasedJob] <-2> Acquired required file: /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/in.osm -> /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/3-UserScript-0/in.osm
+[openstudio.runmanager.ToolBasedJob] <-2> Acquired required file: /Applications/OpenStudio 1.5.1/Ruby/openstudio/runmanager/rubyscripts/UserScriptAdapter.rb -> /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/3-UserScript-0/in.rb
+[openstudio.runmanager.ToolBasedJob] <-2> Acquired required file: /Applications/OpenStudio 1.5.1/OpenStudio.app/Contents/share/openstudio-1.5.1/pat/Measures/ReportRequest/measure.rb -> /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/3-UserScript-0/user_script.rb
+[openstudio.runmanager.LocalProcess] <1> Starting LocalProcess: /System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/bin/ruby
+[openstudio.runmanager.LocalProcess] <-2> Adding param: -I
+[openstudio.runmanager.LocalProcess] <-2> Adding param: /Applications/OpenStudio 1.5.1/Ruby
+[openstudio.runmanager.LocalProcess] <-2> Adding param: in.rb
+[openstudio.runmanager.LocalProcess] <-2> Adding param: --argumentName=measures_json
+[openstudio.runmanager.LocalProcess] <-2> Adding param: --argumentValue=[{"arguments":{},"measure":"/Applications/OpenStudio 1.5.1/OpenStudio.app/Contents/share/openstudio-1.5.1/pat/Measures/StandardReports/measure.rb"}]
+[openstudio.runmanager.LocalProcess] <-2> Adding param: --lastOpenStudioModelPath=/var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/in.osm
+[openstudio.runmanager.LocalProcess] <-2> Adding param: --lastEnergyPlusWorkspacePath=/var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/1-ModelToIdf-0/in.idf
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio.runmanager.LocalProcess] <-2> Adding param: --lastEpwFilePathArgument=/var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/3-UserScript-0/in.epw
+[openstudio.runmanager.ToolBasedJob] <-2> ToolBasedJob processStarted: {0761714b-04ab-4cd4-994c-a1b15827693f}
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio.runmanager.LocalProcess] <-2> processFinished: 0 0
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio.runmanager.ToolBasedJob] <-2> ToolBasedJob processFinished: {0761714b-04ab-4cd4-994c-a1b15827693f} 0 0
+[openstudio.runmanager.ToolBasedJob] <-2> Attempting to load results for merged job: 0
+[openstudio.runmanager.ToolBasedJob] <-2> Setting osresult files: 1
+[openstudio.runmanager.ToolBasedJob] <-2> ToolBasedJob processFinished, success: Success
+[openstudio.runmanager.ToolBasedJob] <-2> Last Tool Completed: {0761714b-04ab-4cd4-994c-a1b15827693f}
+[openstudio::RunView] <-2> Tree finished, status is: Waiting
+[openstudio.runmanager.RunManager] <-1> Starting job locally: {5e2aa390-1c8a-4e80-8552-ae379821c724} EnergyPlusPreProcess
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio.runmanager.Job_Impl] <-2> Emitting job finished: {0761714b-04ab-4cd4-994c-a1b15827693f}
+[openstudio.runmanager.Job_Impl] <-2> Date converted: {0761714b-04ab-4cd4-994c-a1b15827693f} 2014-Nov-18 22:03:37
+[openstudio.runmanager.Job_Impl] <-2> Done Emitting job finished: {0761714b-04ab-4cd4-994c-a1b15827693f}
+[openstudio.runmanager.RunManager] <-2> (/var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run.db) Persisting job status for {0761714b-04ab-4cd4-994c-a1b15827693f}
+[openstudio.runmanager.RunManager] <-2> Deleted previous data job status for {0761714b-04ab-4cd4-994c-a1b15827693f}
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile example.json
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile out.idf
+[openstudio.runmanager.RunManager] <-2> Persisting RequiredFile file:///var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/files/USA_CO_Boulder-Broomfield-Jefferson.County.AP.724699_TMY3.epw to in.epw
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile params.json
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile result.ossr
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile stdout
+[openstudio.runmanager.RunManager] <-2> Done persisting job, committing {0761714b-04ab-4cd4-994c-a1b15827693f}
+[openstudio.runmanager.EnergyPlusPreProcessJob] <-1> EnergyPlusPreProcess starting, outdir: /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/4-EnergyPlusPreProcess-0
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio.runmanager.Job_Impl] <-2> Emitting job finished: {5e2aa390-1c8a-4e80-8552-ae379821c724}
+[openstudio.runmanager.Job_Impl] <-2> Date converted: {5e2aa390-1c8a-4e80-8552-ae379821c724} 2014-Nov-18 22:03:39
+[openstudio.runmanager.Job_Impl] <-2> Done Emitting job finished: {5e2aa390-1c8a-4e80-8552-ae379821c724}
+[openstudio::RunView] <-2> Tree finished, status is: Waiting
+[openstudio.runmanager.RunManager] <-2> (/var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run.db) Persisting job status for {5e2aa390-1c8a-4e80-8552-ae379821c724}
+[openstudio.runmanager.RunManager] <-1> Starting job locally: {9724eba5-5901-4b44-b59d-b7696a934930} EnergyPlus
+[openstudio.runmanager.RunManager] <-2> Deleted previous data job status for {5e2aa390-1c8a-4e80-8552-ae379821c724}
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile out.idf
+[openstudio.runmanager.RunManager] <-2> Persisting RequiredFile file:///var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/files/USA_CO_Boulder-Broomfield-Jefferson.County.AP.724699_TMY3.epw to in.epw
+[openstudio.runmanager.ToolBasedJob] <-1> Starting ToolBasedJob: {9724eba5-5901-4b44-b59d-b7696a934930}
+[openstudio.runmanager.RunManager] <-2> Done persisting job, committing {5e2aa390-1c8a-4e80-8552-ae379821c724}
+[openstudio.runmanager.ToolBasedJob] <-1> Starting Tool: energyplus
+[openstudio.runmanager.WeatherFileFinder] <-2> Location name field from IDF: Site 1
+[openstudio.runmanager.ToolBasedJob] <-1> Requesting Tool: energyplus version: 8.1.-
+[openstudio.runmanager.Tools] <-2> getTool called: energyplus 8.1.-
+[openstudio.runmanager.Tools] <-2> total tools: 5
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio.runmanager.Tools] <-2> getAllByName returns 1
+[openstudio.runmanager.Tools] <-2> getAllByVersion returns 1
+[openstudio.runmanager.ToolBasedJob] <-1> Got Tool: energyplus version: 8.1.0
+[openstudio.runmanager.LocalProcess] <-2> Copying required file from /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/4-EnergyPlusPreProcess-0/out.idf to /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/5-EnergyPlus-0/in.idf
+[openstudio.runmanager.LocalProcess] <-2> Copying required file from /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/files/USA_CO_Boulder-Broomfield-Jefferson.County.AP.724699_TMY3.epw to /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/5-EnergyPlus-0/in.epw
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio.runmanager.LocalProcess] <-2> Copying required file from /Applications/EnergyPlus-8-1-0/Energy+.idd to /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/5-EnergyPlus-0/Energy+.idd
+[openstudio.runmanager.LocalProcess] <-1> Creating LocalProcess
+[openstudio.runmanager.LocalProcess] <-2> Setting working directory: /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/5-EnergyPlus-0
+[openstudio.runmanager.ToolBasedJob] <-2> Acquired required file: /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/4-EnergyPlusPreProcess-0/out.idf -> /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/5-EnergyPlus-0/in.idf
+[openstudio.runmanager.ToolBasedJob] <-2> Acquired required file: /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/files/USA_CO_Boulder-Broomfield-Jefferson.County.AP.724699_TMY3.epw -> /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/5-EnergyPlus-0/in.epw
+[openstudio.runmanager.ToolBasedJob] <-2> Acquired required file: Energy+.idd -> /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/5-EnergyPlus-0/Energy+.idd
+[openstudio.runmanager.LocalProcess] <1> Starting LocalProcess: /Applications/EnergyPlus-8-1-0/EnergyPlus
+[openstudio.runmanager.ToolBasedJob] <-2> ToolBasedJob processStarted: {9724eba5-5901-4b44-b59d-b7696a934930}
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio::runmanager::JobStatusWidget] <-1> Adding Job to tree: {219dccd2-f548-486d-8699-f13fa32c008d} Null Job
+[openstudio::runmanager::JobStatusWidget] <-1> Adding Job to tree: {eeb2709e-3f64-4d1a-8930-f81171a9aac1} ModelToIdf
+[openstudio::runmanager::JobStatusWidget] <-1> Adding Job to tree: {958bc3b1-590e-4d34-8d22-d135843d9a96} ExpandObjects
+[openstudio::runmanager::JobStatusWidget] <-1> Adding Job to tree: {0761714b-04ab-4cd4-994c-a1b15827693f} UserScript (UserScriptAdapter.rb)
+[openstudio::runmanager::JobStatusWidget] <-1> Adding Job to tree: {5e2aa390-1c8a-4e80-8552-ae379821c724} EnergyPlusPreProcess
+[openstudio::runmanager::JobStatusWidget] <-1> Adding Job to tree: {9724eba5-5901-4b44-b59d-b7696a934930} EnergyPlus
+[openstudio::runmanager::JobStatusWidget] <-1> Adding Job to tree: {05bce42c-c194-4657-b4c3-d635694bbabe} UserScript (UserScriptAdapter.rb)
+[openstudio.runmanager.Job_Impl] <-2> Returning previously saved outputfiles
+[openstudio.runmanager.Job_Impl] <-2> Returning previously saved outputfiles
+[openstudio.runmanager.Job_Impl] <-2> Returning previously saved outputfiles
+[openstudio.runmanager.Job_Impl] <-2> Returning previously saved outputfiles
+[openstudio.runmanager.Job_Impl] <-2> Returning previously saved outputfiles
+[openstudio::runmanager::JobStatusWidget] <-1> Adding Job to tree: {2bb44bb2-befd-4fdd-9b78-bfe0db1f8d21} OpenStudioPostProcess
+[openstudio.runmanager.Job_Impl] <-2> Returning previously saved outputfiles
+[openstudio.runmanager.Job_Impl] <-2> Returning previously saved outputfiles
+[openstudio.runmanager.Job_Impl] <-2> Returning previously saved outputfiles
+[openstudio.runmanager.Job_Impl] <-2> Returning previously saved outputfiles
+[openstudio.runmanager.Job_Impl] <-2> Returning previously saved outputfiles
+[openstudio::runmanager::JobStatusWidget] <-2> Output updated to show Job: {219dccd2-f548-486d-8699-f13fa32c008d}
+[openstudio::runmanager::JobStatusWidget] <-2> Output updated to show Job: {219dccd2-f548-486d-8699-f13fa32c008d}
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio::runmanager::JobStatusWidget] <-2> Output updated to show Job: {0761714b-04ab-4cd4-994c-a1b15827693f}
+[openstudio::runmanager::JobStatusWidget] <-2> Output updated to show Job: {958bc3b1-590e-4d34-8d22-d135843d9a96}
+[openstudio::runmanager::JobStatusWidget] <-2> Output updated to show Job: {0761714b-04ab-4cd4-994c-a1b15827693f}
+[openstudio::runmanager::JobStatusWidget] <-2> Output updated to show Job: {5e2aa390-1c8a-4e80-8552-ae379821c724}
+[openstudio.runmanager.LocalProcess] <-2> processFinished: 0 0
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio.runmanager.ToolBasedJob] <-2> ToolBasedJob processFinished: {9724eba5-5901-4b44-b59d-b7696a934930} 0 0
+[openstudio.runmanager.ToolBasedJob] <-2> Setting error file: /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/5-EnergyPlus-0/eplusout.err
+[openstudio.runmanager.ToolBasedJob] <-2> No osresult file found at: /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/5-EnergyPlus-0
+[openstudio.runmanager.ToolBasedJob] <-2> ToolBasedJob processFinished, success: Success
+[openstudio.runmanager.ToolBasedJob] <-2> Last Tool Completed: {9724eba5-5901-4b44-b59d-b7696a934930}
+[openstudio::RunView] <-2> Tree finished, status is: Waiting
+[openstudio.runmanager.Job_Impl] <-2> Emitting job finished: {9724eba5-5901-4b44-b59d-b7696a934930}
+[openstudio.runmanager.Job_Impl] <-2> Date converted: {9724eba5-5901-4b44-b59d-b7696a934930} 2014-Nov-18 22:03:39
+[openstudio.runmanager.RunManager] <-1> Starting job locally: {05bce42c-c194-4657-b4c3-d635694bbabe} UserScript (UserScriptAdapter.rb)
+[openstudio.runmanager.Job_Impl] <-2> Done Emitting job finished: {9724eba5-5901-4b44-b59d-b7696a934930}
+[openstudio.runmanager.ToolBasedJob] <-1> Starting ToolBasedJob: {05bce42c-c194-4657-b4c3-d635694bbabe}
+[openstudio.runmanager.RubyJob] <-1> Starting job
+[openstudio.runmanager.RubyJob] <-1> Getting files
+[openstudio.runmanager.RubyJob] <-1> Adding required file /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/4-EnergyPlusPreProcess-0/out.idf to: in.idf
+[openstudio.runmanager.RunManager] <-2> (/var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run.db) Persisting job status for {9724eba5-5901-4b44-b59d-b7696a934930}
+[openstudio.runmanager.RunManager] <-2> Deleted previous data job status for {9724eba5-5901-4b44-b59d-b7696a934930}
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile Energy+.ini
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile eplusmap.csv
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile eplusout.audit
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile eplusout.bnd
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile eplusout.eio
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile eplusout.end
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile eplusout.err
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile eplusout.eso
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile eplusout.mdd
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile eplusout.mtd
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile eplusout.mtr
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile eplusout.rdd
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile eplusout.shd
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile eplusout.sql
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile eplusssz.csv
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile eplustbl.htm
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile epluszsz.csv
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile sqlite.err
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile stderr
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile stdout
+[openstudio.runmanager.RunManager] <-2> Done persisting job, committing {9724eba5-5901-4b44-b59d-b7696a934930}
+[openstudio.runmanager.RubyJob] <-1> Adding required file /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/in.osm to: in.osm
+[openstudio.runmanager.RubyJobUtils] <-1> Skipping file, already exists as a required file: /Applications/OpenStudio 1.5.1/OpenStudio.app/Contents/share/openstudio-1.5.1/pat/Measures/StandardReports/measure.rb
+[openstudio.runmanager.RubyJob] <-2> all input files: /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/in.osm
+[openstudio.runmanager.RubyJob] <-2> all input files: /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/1-ModelToIdf-0/in.idf
+[openstudio.runmanager.RubyJob] <-2>    Required File: in.epw
+[openstudio.runmanager.RubyJob] <-2> all input files: /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/2-ExpandObjects-0/stdout
+[openstudio.runmanager.RubyJob] <-2> all input files: /Applications/OpenStudio 1.5.1/Ruby/openstudio/runmanager/rubyscripts/UserScriptAdapter.rb
+[openstudio.runmanager.RubyJob] <-2>    Required File: user_script.rb
+[openstudio.runmanager.RubyJob] <-2> all input files: /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/3-UserScript-0/example.json
+[openstudio.runmanager.RubyJob] <-2> all input files: /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/3-UserScript-0/out.idf
+[openstudio.runmanager.RubyJob] <-2>    Required File: in.epw
+[openstudio.runmanager.RubyJob] <-2> all input files: /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/3-UserScript-0/params.json
+[openstudio.runmanager.RubyJob] <-2> all input files: /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/3-UserScript-0/result.ossr
+[openstudio.runmanager.RubyJob] <-2> all input files: /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/3-UserScript-0/stdout
+[openstudio.runmanager.RubyJob] <-2> all input files: /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/4-EnergyPlusPreProcess-0/out.idf
+[openstudio.runmanager.RubyJob] <-2>    Required File: in.epw
+[openstudio.runmanager.RubyJob] <-2> all input files: /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/5-EnergyPlus-0/Energy+.ini
+[openstudio.runmanager.RubyJob] <-2> all input files: /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/5-EnergyPlus-0/eplusmap.csv
+[openstudio.runmanager.RubyJob] <-2> all input files: /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/5-EnergyPlus-0/eplusout.audit
+[openstudio.runmanager.RubyJob] <-2> all input files: /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/5-EnergyPlus-0/eplusout.bnd
+[openstudio.runmanager.RubyJob] <-2> all input files: /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/5-EnergyPlus-0/eplusout.eio
+[openstudio.runmanager.RubyJob] <-2> all input files: /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/5-EnergyPlus-0/eplusout.end
+[openstudio.runmanager.RubyJob] <-2> all input files: /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/5-EnergyPlus-0/eplusout.err
+[openstudio.runmanager.RubyJob] <-2> all input files: /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/5-EnergyPlus-0/eplusout.eso
+[openstudio.runmanager.RubyJob] <-2> all input files: /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/5-EnergyPlus-0/eplusout.mdd
+[openstudio.runmanager.RubyJob] <-2> all input files: /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/5-EnergyPlus-0/eplusout.mtd
+[openstudio.runmanager.RubyJob] <-2> all input files: /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/5-EnergyPlus-0/eplusout.mtr
+[openstudio.runmanager.RubyJob] <-2> all input files: /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/5-EnergyPlus-0/eplusout.rdd
+[openstudio.runmanager.RubyJob] <-2> all input files: /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/5-EnergyPlus-0/eplusout.shd
+[openstudio.runmanager.RubyJob] <-2> all input files: /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/5-EnergyPlus-0/eplusout.sql
+[openstudio.runmanager.RubyJob] <-2> all input files: /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/5-EnergyPlus-0/eplusssz.csv
+[openstudio.runmanager.RubyJob] <-2> all input files: /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/5-EnergyPlus-0/eplustbl.htm
+[openstudio.runmanager.RubyJob] <-2> all input files: /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/5-EnergyPlus-0/epluszsz.csv
+[openstudio.runmanager.RubyJob] <-2> all input files: /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/5-EnergyPlus-0/sqlite.err
+[openstudio.runmanager.RubyJob] <-2> all input files: /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/5-EnergyPlus-0/stderr
+[openstudio.runmanager.RubyJob] <-2> all input files: /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/5-EnergyPlus-0/stdout
+[openstudio.runmanager.RubyJob] <-2> all input files: /Applications/OpenStudio 1.5.1/Ruby/openstudio/runmanager/rubyscripts/UserScriptAdapter.rb
+[openstudio.runmanager.RubyJob] <-2>    Required File: user_script.rb
+[openstudio.runmanager.RubyJob] <-2>    Required File: resources/report.html.in
+[openstudio.runmanager.RubyJob] <-1> Found last EpwFile 'in.epw' attached to last EnergyPlus Workspace
+[openstudio.runmanager.ToolBasedJob] <-2> Examining osm for requirements: /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/in.osm with basepath: 
+[openstudio.runmanager.ToolBasedJob] <-2> OSM dir did not exist, now using basepath: 
+[openstudio.runmanager.ToolBasedJob] <-2> OSM dir did not exist, now using parent resources folder: /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827
+[openstudio.runmanager.ToolBasedJob] <-1> Adding OSM requisite file: /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/files/USA_CO_Boulder-Broomfield-Jefferson.County.AP.724699_TMY3.epw to be installed at: in/files/USA_CO_Boulder-Broomfield-Jefferson.County.AP.724699_TMY3.epw
+[openstudio.runmanager.RubyJob] <-1> Found EpwFile in list of required files 'in.epw' preferred over previous relative location of: in.epw
+[openstudio.runmanager.ToolBasedJob] <-1> Starting Tool: ruby
+[openstudio.runmanager.ToolBasedJob] <-1> Requesting Tool: ruby version: -.-.-
+[openstudio.runmanager.Tools] <-2> getTool called: ruby -.-.-
+[openstudio.runmanager.Tools] <-2> total tools: 5
+[openstudio.runmanager.Tools] <-2> getAllByName returns 1
+[openstudio.runmanager.Tools] <-2> getAllByVersion returns 1
+[openstudio.runmanager.ToolBasedJob] <-1> Got Tool: ruby version: -.-.-
+[openstudio.runmanager.ToolBasedJob] <-2> Examining osm for requirements: /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/in.osm with basepath: 
+[openstudio.runmanager.ToolBasedJob] <-2> OSM dir did not exist, now using basepath: 
+[openstudio.runmanager.ToolBasedJob] <-2> OSM dir did not exist, now using parent resources folder: /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827
+[openstudio.runmanager.ToolBasedJob] <-1> Adding OSM requisite file: /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/files/USA_CO_Boulder-Broomfield-Jefferson.County.AP.724699_TMY3.epw to be installed at: in/files/USA_CO_Boulder-Broomfield-Jefferson.County.AP.724699_TMY3.epw
+[openstudio.runmanager.LocalProcess] <-2> Copying required file from /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/4-EnergyPlusPreProcess-0/out.idf to /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/6-UserScript-0/in.idf
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio.runmanager.LocalProcess] <-2> Copying required file from /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/files/USA_CO_Boulder-Broomfield-Jefferson.County.AP.724699_TMY3.epw to /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/6-UserScript-0/in.epw
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio.runmanager.LocalProcess] <-2> Copying required file from /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/files/USA_CO_Boulder-Broomfield-Jefferson.County.AP.724699_TMY3.epw to /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/6-UserScript-0/in/files/USA_CO_Boulder-Broomfield-Jefferson.County.AP.724699_TMY3.epw
+[openstudio.runmanager.LocalProcess] <-2> Copying required file from /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/in.osm to /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/6-UserScript-0/in.osm
+[openstudio.runmanager.LocalProcess] <-2> Copying required file from /Applications/OpenStudio 1.5.1/Ruby/openstudio/runmanager/rubyscripts/UserScriptAdapter.rb to /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/6-UserScript-0/in.rb
+[openstudio.runmanager.LocalProcess] <-2> Copying required file from /Applications/OpenStudio 1.5.1/OpenStudio.app/Contents/share/openstudio-1.5.1/pat/Measures/StandardReports/measure.rb to /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/6-UserScript-0/user_script.rb
+[openstudio.runmanager.LocalProcess] <-2> Copying required file from /Applications/OpenStudio 1.5.1/OpenStudio.app/Contents/share/openstudio-1.5.1/pat/Measures/StandardReports/resources/report.html.in to /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/6-UserScript-0/resources/report.html.in
+[openstudio.runmanager.LocalProcess] <-1> Creating LocalProcess
+[openstudio.runmanager.LocalProcess] <-2> Setting working directory: /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/6-UserScript-0
+[openstudio.runmanager.ToolBasedJob] <-2> Acquired required file: /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/4-EnergyPlusPreProcess-0/out.idf -> /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/6-UserScript-0/in.idf
+[openstudio.runmanager.ToolBasedJob] <-2> Acquired required file: /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/files/USA_CO_Boulder-Broomfield-Jefferson.County.AP.724699_TMY3.epw -> /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/6-UserScript-0/in.epw
+[openstudio.runmanager.ToolBasedJob] <-2> Acquired required file: /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/files/USA_CO_Boulder-Broomfield-Jefferson.County.AP.724699_TMY3.epw -> /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/6-UserScript-0/in/files/USA_CO_Boulder-Broomfield-Jefferson.County.AP.724699_TMY3.epw
+[openstudio.runmanager.ToolBasedJob] <-2> Acquired required file: /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/in.osm -> /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/6-UserScript-0/in.osm
+[openstudio.runmanager.ToolBasedJob] <-2> Acquired required file: /Applications/OpenStudio 1.5.1/Ruby/openstudio/runmanager/rubyscripts/UserScriptAdapter.rb -> /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/6-UserScript-0/in.rb
+[openstudio.runmanager.ToolBasedJob] <-2> Acquired required file: /Applications/OpenStudio 1.5.1/OpenStudio.app/Contents/share/openstudio-1.5.1/pat/Measures/StandardReports/measure.rb -> /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/6-UserScript-0/user_script.rb
+[openstudio.runmanager.ToolBasedJob] <-2> Acquired required file: /Applications/OpenStudio 1.5.1/OpenStudio.app/Contents/share/openstudio-1.5.1/pat/Measures/StandardReports/resources/report.html.in -> /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/6-UserScript-0/resources/report.html.in
+[openstudio.runmanager.LocalProcess] <1> Starting LocalProcess: /System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/bin/ruby
+[openstudio.runmanager.LocalProcess] <-2> Adding param: -I
+[openstudio.runmanager.LocalProcess] <-2> Adding param: /Applications/OpenStudio 1.5.1/Ruby
+[openstudio.runmanager.LocalProcess] <-2> Adding param: in.rb
+[openstudio.runmanager.LocalProcess] <-2> Adding param: --lastOpenStudioModelPath=/var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/in.osm
+[openstudio.runmanager.LocalProcess] <-2> Adding param: --lastEnergyPlusWorkspacePath=/var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/4-EnergyPlusPreProcess-0/out.idf
+[openstudio.runmanager.LocalProcess] <-2> Adding param: --lastEnergyPlusSqlFilePath=/var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/5-EnergyPlus-0/eplusout.sql
+[openstudio.runmanager.LocalProcess] <-2> Adding param: --lastEpwFilePathArgument=/var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/6-UserScript-0/in.epw
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio.runmanager.ToolBasedJob] <-2> ToolBasedJob processStarted: {05bce42c-c194-4657-b4c3-d635694bbabe}
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio.runmanager.LocalProcess] <-2> processFinished: 0 0
+[openstudio.runmanager.ToolBasedJob] <-2> ToolBasedJob processFinished: {05bce42c-c194-4657-b4c3-d635694bbabe} 0 0
+[openstudio.runmanager.ToolBasedJob] <-2> Attempting to load results for merged job: 0
+[openstudio.runmanager.ToolBasedJob] <-2> Setting osresult files: 1
+[openstudio.runmanager.ToolBasedJob] <-2> ToolBasedJob processFinished, success: Success
+[openstudio.runmanager.ToolBasedJob] <-2> Last Tool Completed: {05bce42c-c194-4657-b4c3-d635694bbabe}
+[openstudio::RunView] <-2> Tree finished, status is: Waiting
+[openstudio.runmanager.RunManager] <-1> Starting job locally: {2bb44bb2-befd-4fdd-9b78-bfe0db1f8d21} OpenStudioPostProcess
+[openstudio.runmanager.OpenStudioPostProcessJob] <-1> OpenStudioPostProcess starting, filename: /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/5-EnergyPlus-0/eplusout.sql
+[openstudio.runmanager.OpenStudioPostProcessJob] <-1> OpenStudioPostProcess starting, outdir: /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/7-OpenStudioPostProcess-0
+[openstudio.runmanager.Job_Impl] <-2> Emitting job finished: {05bce42c-c194-4657-b4c3-d635694bbabe}
+[openstudio.runmanager.Job_Impl] <-2> Date converted: {05bce42c-c194-4657-b4c3-d635694bbabe} 2014-Nov-18 22:09:07
+[openstudio.runmanager.Job_Impl] <-2> Done Emitting job finished: {05bce42c-c194-4657-b4c3-d635694bbabe}
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio.runmanager.RunManager] <-2> (/var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run.db) Persisting job status for {05bce42c-c194-4657-b4c3-d635694bbabe}
+[openstudio.runmanager.RunManager] <-2> Deleted previous data job status for {05bce42c-c194-4657-b4c3-d635694bbabe}
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile params.json
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile report.html
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile result.ossr
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile stdout
+[openstudio.runmanager.RunManager] <-2> Done persisting job, committing {05bce42c-c194-4657-b4c3-d635694bbabe}
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio.energyplus.SqlFile] <-2> Dictionary Built
+[openstudio.runmanager.OpenStudioPostProcessJob] <-2> Extracting attributes from model::Building.
+[openstudio.runmanager.OpenStudioPostProcessJob] <-2> Extracting attributes from model::Facility.
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/1-ModelToIdf-0/in.idf
+[openstudio.runmanager.Job_Impl] <-2> standardClean: /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/2-ExpandObjects-0/Energy+.idd
+[openstudio.runmanager.Job_Impl] <-2> standardClean: /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/2-ExpandObjects-0/in.epw
+[openstudio.runmanager.Job_Impl] <-2> standardClean: /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/2-ExpandObjects-0/in.idf
+[openstudio.runmanager.Job_Impl] <-2> standardClean: /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/2-ExpandObjects-0/stderr
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/2-ExpandObjects-0/stdout
+[openstudio.runmanager.LocalProcess] <-2> cleanUpRequiredFiles: /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/2-ExpandObjects-0/Energy+.idd
+[openstudio.runmanager.LocalProcess] <-2> cleanUpRequiredFiles: /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/2-ExpandObjects-0/in.epw
+[openstudio.runmanager.LocalProcess] <-2> cleanUpRequiredFiles: /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/2-ExpandObjects-0/in.idf
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/3-UserScript-0/example.json
+[openstudio.runmanager.Job_Impl] <-2> standardClean: /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/3-UserScript-0/in-2.idf
+[openstudio.runmanager.Job_Impl] <-2> standardClean: /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/3-UserScript-0/in.epw
+[openstudio.runmanager.Job_Impl] <-2> standardClean: /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/3-UserScript-0/in
+[openstudio.runmanager.Job_Impl] <-2> standardClean: /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/3-UserScript-0/in.idf
+[openstudio.runmanager.Job_Impl] <-2> standardClean: /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/3-UserScript-0/in.osm
+[openstudio.runmanager.Job_Impl] <-2> standardClean: /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/3-UserScript-0/in.rb
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/3-UserScript-0/out.idf
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/3-UserScript-0/params.json
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/3-UserScript-0/result.ossr
+[openstudio.runmanager.Job_Impl] <-2> standardClean: /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/3-UserScript-0/stderr
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/3-UserScript-0/stdout
+[openstudio.runmanager.Job_Impl] <-2> standardClean: /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/3-UserScript-0/user_script.rb
+[openstudio.runmanager.LocalProcess] <-2> cleanUpRequiredFiles: /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/3-UserScript-0/in/files/USA_CO_Boulder-Broomfield-Jefferson.County.AP.724699_TMY3.epw
+[openstudio.runmanager.LocalProcess] <-2> cleanUpRequiredFiles: /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/3-UserScript-0/in-2.idf
+[openstudio.runmanager.LocalProcess] <-2> cleanUpRequiredFiles: /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/3-UserScript-0/in.epw
+[openstudio.runmanager.LocalProcess] <-2> cleanUpRequiredFiles: /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/3-UserScript-0/in.idf
+[openstudio.runmanager.LocalProcess] <-2> cleanUpRequiredFiles: /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/3-UserScript-0/in.osm
+[openstudio.runmanager.LocalProcess] <-2> cleanUpRequiredFiles: /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/3-UserScript-0/in.rb
+[openstudio.runmanager.LocalProcess] <-2> cleanUpRequiredFiles: /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/3-UserScript-0/user_script.rb
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/4-EnergyPlusPreProcess-0/out.idf
+[openstudio.runmanager.Job_Impl] <-2> standardClean: /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/5-EnergyPlus-0/Energy+.idd
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/5-EnergyPlus-0/Energy+.ini
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/5-EnergyPlus-0/eplusmap.csv
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/5-EnergyPlus-0/eplusout.audit
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/5-EnergyPlus-0/eplusout.bnd
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/5-EnergyPlus-0/eplusout.eio
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/5-EnergyPlus-0/eplusout.end
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/5-EnergyPlus-0/eplusout.err
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/5-EnergyPlus-0/eplusout.eso
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/5-EnergyPlus-0/eplusout.mdd
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/5-EnergyPlus-0/eplusout.mtd
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/5-EnergyPlus-0/eplusout.mtr
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/5-EnergyPlus-0/eplusout.rdd
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/5-EnergyPlus-0/eplusout.shd
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/5-EnergyPlus-0/eplusout.sql
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/5-EnergyPlus-0/eplusssz.csv
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/5-EnergyPlus-0/eplustbl.htm
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/5-EnergyPlus-0/epluszsz.csv
+[openstudio.runmanager.Job_Impl] <-2> standardClean: /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/5-EnergyPlus-0/in.epw
+[openstudio.runmanager.Job_Impl] <-2> standardClean: /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/5-EnergyPlus-0/in.idf
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/5-EnergyPlus-0/sqlite.err
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/5-EnergyPlus-0/stderr
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/5-EnergyPlus-0/stdout
+[openstudio.runmanager.LocalProcess] <-2> cleanUpRequiredFiles: /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/5-EnergyPlus-0/Energy+.idd
+[openstudio.runmanager.LocalProcess] <-2> cleanUpRequiredFiles: /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/5-EnergyPlus-0/in.epw
+[openstudio.runmanager.LocalProcess] <-2> cleanUpRequiredFiles: /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/5-EnergyPlus-0/in.idf
+[openstudio.runmanager.Job_Impl] <-2> standardClean: /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/6-UserScript-0/in.epw
+[openstudio.runmanager.Job_Impl] <-2> standardClean: /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/6-UserScript-0/in
+[openstudio.runmanager.Job_Impl] <-2> standardClean: /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/6-UserScript-0/in.idf
+[openstudio.runmanager.Job_Impl] <-2> standardClean: /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/6-UserScript-0/in.osm
+[openstudio.runmanager.Job_Impl] <-2> standardClean: /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/6-UserScript-0/in.rb
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/6-UserScript-0/params.json
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/6-UserScript-0/report.html
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/6-UserScript-0/result.ossr
+[openstudio.runmanager.Job_Impl] <-2> standardClean: /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/6-UserScript-0/stderr
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/6-UserScript-0/stdout
+[openstudio.runmanager.Job_Impl] <-2> standardClean: /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/6-UserScript-0/user_script.rb
+[openstudio.runmanager.LocalProcess] <-2> cleanUpRequiredFiles: /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/6-UserScript-0/in/files/USA_CO_Boulder-Broomfield-Jefferson.County.AP.724699_TMY3.epw
+[openstudio.runmanager.LocalProcess] <-2> cleanUpRequiredFiles: /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/6-UserScript-0/in.epw
+[openstudio.runmanager.LocalProcess] <-2> cleanUpRequiredFiles: /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/6-UserScript-0/in.idf
+[openstudio.runmanager.LocalProcess] <-2> cleanUpRequiredFiles: /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/6-UserScript-0/in.osm
+[openstudio.runmanager.LocalProcess] <-2> cleanUpRequiredFiles: /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/6-UserScript-0/in.rb
+[openstudio.runmanager.LocalProcess] <-2> cleanUpRequiredFiles: /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/6-UserScript-0/resources/report.html.in
+[openstudio.runmanager.LocalProcess] <-2> cleanUpRequiredFiles: /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/6-UserScript-0/user_script.rb
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/7-OpenStudioPostProcess-0/report.xml
+[openstudio.runmanager.Job_Impl] <-2> Emitting job finished: {2bb44bb2-befd-4fdd-9b78-bfe0db1f8d21}
+[openstudio.runmanager.Job_Impl] <-2> Date converted: {2bb44bb2-befd-4fdd-9b78-bfe0db1f8d21} 2014-Nov-18 22:09:10
+[openstudio.runmanager.Job_Impl] <-2> Done Emitting job finished: {2bb44bb2-befd-4fdd-9b78-bfe0db1f8d21}
+[openstudio::RunView] <-2> Tree finished, status is: Finished
+[openstudio::RunView] <-2> Tree finished, error getting radout.sql file: getLastByFilename: FileInfo not found: radout.sql
+[openstudio::RunView] <-2> Emitting results generated for sqlfile: /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/5-EnergyPlus-0/eplusout.sql and radiance file 
+[saveModelTempDir] <-2> Copying /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources to /Users/nlong/working/personal/School/CVEN5830-SBD/Assignment-3/model/04-windows-daylighting
+[copyDir] <-1> copyDir '/var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources' to '/Users/nlong/working/personal/School/CVEN5830-SBD/Assignment-3/model/04-windows-daylighting'
+[synchDirStructures] <-1> Synching destination '/Users/nlong/working/personal/School/CVEN5830-SBD/Assignment-3/model/04-windows-daylighting' with source '/var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources'
+[synchDirStructures] <-1> Synching destination '/Users/nlong/working/personal/School/CVEN5830-SBD/Assignment-3/model/04-windows-daylighting/files' with source '/var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/files'
+[synchDirStructures] <-1> Synching destination '/Users/nlong/working/personal/School/CVEN5830-SBD/Assignment-3/model/04-windows-daylighting/scripts' with source '/var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/scripts'
+[copyDir] <-1> copyDir '/var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/files' to '/Users/nlong/working/personal/School/CVEN5830-SBD/Assignment-3/model/04-windows-daylighting/files'
+[synchDirStructures] <-1> Synching destination '/Users/nlong/working/personal/School/CVEN5830-SBD/Assignment-3/model/04-windows-daylighting/files' with source '/var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/files'
+[copyDir] <-1> copyDir '/var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run' to '/Users/nlong/working/personal/School/CVEN5830-SBD/Assignment-3/model/04-windows-daylighting/run'
+[copyDir] <-1> Creating directory named = 'run' in parentDstDir = '/Users/nlong/working/personal/School/CVEN5830-SBD/Assignment-3/model/04-windows-daylighting'
+[synchDirStructures] <-1> Synching destination '/Users/nlong/working/personal/School/CVEN5830-SBD/Assignment-3/model/04-windows-daylighting/run' with source '/var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run'
+[copyDir] <-1> copyDir '/var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/0-Null' to '/Users/nlong/working/personal/School/CVEN5830-SBD/Assignment-3/model/04-windows-daylighting/run/0-Null'
+[copyDir] <-1> Creating directory named = '0-Null' in parentDstDir = '/Users/nlong/working/personal/School/CVEN5830-SBD/Assignment-3/model/04-windows-daylighting/run'
+[synchDirStructures] <-1> Synching destination '/Users/nlong/working/personal/School/CVEN5830-SBD/Assignment-3/model/04-windows-daylighting/run/0-Null' with source '/var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/0-Null'
+[copyDir] <-1> copyDir '/var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/1-ModelToIdf-0' to '/Users/nlong/working/personal/School/CVEN5830-SBD/Assignment-3/model/04-windows-daylighting/run/1-ModelToIdf-0'
+[copyDir] <-1> Creating directory named = '1-ModelToIdf-0' in parentDstDir = '/Users/nlong/working/personal/School/CVEN5830-SBD/Assignment-3/model/04-windows-daylighting/run'
+[synchDirStructures] <-1> Synching destination '/Users/nlong/working/personal/School/CVEN5830-SBD/Assignment-3/model/04-windows-daylighting/run/1-ModelToIdf-0' with source '/var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/1-ModelToIdf-0'
+[copyDir] <-1> copyDir '/var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/2-ExpandObjects-0' to '/Users/nlong/working/personal/School/CVEN5830-SBD/Assignment-3/model/04-windows-daylighting/run/2-ExpandObjects-0'
+[copyDir] <-1> Creating directory named = '2-ExpandObjects-0' in parentDstDir = '/Users/nlong/working/personal/School/CVEN5830-SBD/Assignment-3/model/04-windows-daylighting/run'
+[synchDirStructures] <-1> Synching destination '/Users/nlong/working/personal/School/CVEN5830-SBD/Assignment-3/model/04-windows-daylighting/run/2-ExpandObjects-0' with source '/var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/2-ExpandObjects-0'
+[copyDir] <-1> copyDir '/var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/3-UserScript-0' to '/Users/nlong/working/personal/School/CVEN5830-SBD/Assignment-3/model/04-windows-daylighting/run/3-UserScript-0'
+[copyDir] <-1> Creating directory named = '3-UserScript-0' in parentDstDir = '/Users/nlong/working/personal/School/CVEN5830-SBD/Assignment-3/model/04-windows-daylighting/run'
+[synchDirStructures] <-1> Synching destination '/Users/nlong/working/personal/School/CVEN5830-SBD/Assignment-3/model/04-windows-daylighting/run/3-UserScript-0' with source '/var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/3-UserScript-0'
+[copyDir] <-1> copyDir '/var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/4-EnergyPlusPreProcess-0' to '/Users/nlong/working/personal/School/CVEN5830-SBD/Assignment-3/model/04-windows-daylighting/run/4-EnergyPlusPreProcess-0'
+[copyDir] <-1> Creating directory named = '4-EnergyPlusPreProcess-0' in parentDstDir = '/Users/nlong/working/personal/School/CVEN5830-SBD/Assignment-3/model/04-windows-daylighting/run'
+[synchDirStructures] <-1> Synching destination '/Users/nlong/working/personal/School/CVEN5830-SBD/Assignment-3/model/04-windows-daylighting/run/4-EnergyPlusPreProcess-0' with source '/var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/4-EnergyPlusPreProcess-0'
+[copyDir] <-1> copyDir '/var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/5-EnergyPlus-0' to '/Users/nlong/working/personal/School/CVEN5830-SBD/Assignment-3/model/04-windows-daylighting/run/5-EnergyPlus-0'
+[copyDir] <-1> Creating directory named = '5-EnergyPlus-0' in parentDstDir = '/Users/nlong/working/personal/School/CVEN5830-SBD/Assignment-3/model/04-windows-daylighting/run'
+[synchDirStructures] <-1> Synching destination '/Users/nlong/working/personal/School/CVEN5830-SBD/Assignment-3/model/04-windows-daylighting/run/5-EnergyPlus-0' with source '/var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/5-EnergyPlus-0'
+[copyDir] <-1> copyDir '/var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/6-UserScript-0' to '/Users/nlong/working/personal/School/CVEN5830-SBD/Assignment-3/model/04-windows-daylighting/run/6-UserScript-0'
+[copyDir] <-1> Creating directory named = '6-UserScript-0' in parentDstDir = '/Users/nlong/working/personal/School/CVEN5830-SBD/Assignment-3/model/04-windows-daylighting/run'
+[synchDirStructures] <-1> Synching destination '/Users/nlong/working/personal/School/CVEN5830-SBD/Assignment-3/model/04-windows-daylighting/run/6-UserScript-0' with source '/var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/6-UserScript-0'
+[copyDir] <-1> copyDir '/var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/7-OpenStudioPostProcess-0' to '/Users/nlong/working/personal/School/CVEN5830-SBD/Assignment-3/model/04-windows-daylighting/run/7-OpenStudioPostProcess-0'
+[copyDir] <-1> Creating directory named = '7-OpenStudioPostProcess-0' in parentDstDir = '/Users/nlong/working/personal/School/CVEN5830-SBD/Assignment-3/model/04-windows-daylighting/run'
+[synchDirStructures] <-1> Synching destination '/Users/nlong/working/personal/School/CVEN5830-SBD/Assignment-3/model/04-windows-daylighting/run/7-OpenStudioPostProcess-0' with source '/var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/7-OpenStudioPostProcess-0'
+[copyDir] <-1> copyDir '/var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/scripts' to '/Users/nlong/working/personal/School/CVEN5830-SBD/Assignment-3/model/04-windows-daylighting/scripts'
+[synchDirStructures] <-1> Synching destination '/Users/nlong/working/personal/School/CVEN5830-SBD/Assignment-3/model/04-windows-daylighting/scripts' with source '/var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/scripts'
+[openstudio.runmanager.RunManager] <-1> RunManager queue paused state changed 1
+[openstudio.runmanager.RunManager] <-2> (/var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run.db) Persisting job status for {2bb44bb2-befd-4fdd-9b78-bfe0db1f8d21}
+[openstudio.runmanager.RunManager] <-2> Deleted previous data job status for {2bb44bb2-befd-4fdd-9b78-bfe0db1f8d21}
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile report.xml
+[openstudio.runmanager.RunManager] <-2> Done persisting job, committing {2bb44bb2-befd-4fdd-9b78-bfe0db1f8d21}
+[openstudio::RunView] <-2> Tree finished, status is: Finished
+[openstudio::RunView] <-2> Tree finished, error getting radout.sql file: getLastByFilename: FileInfo not found: radout.sql
+[openstudio::RunView] <-2> Emitting results generated for sqlfile: /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/5-EnergyPlus-0/eplusout.sql and radiance file 
+[saveModelTempDir] <-2> Copying /var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources to /Users/nlong/working/personal/School/CVEN5830-SBD/Assignment-3/model/04-windows-daylighting
+[copyDir] <-1> copyDir '/var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources' to '/Users/nlong/working/personal/School/CVEN5830-SBD/Assignment-3/model/04-windows-daylighting'
+[synchDirStructures] <-1> Synching destination '/Users/nlong/working/personal/School/CVEN5830-SBD/Assignment-3/model/04-windows-daylighting' with source '/var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources'
+[synchDirStructures] <-1> Synching destination '/Users/nlong/working/personal/School/CVEN5830-SBD/Assignment-3/model/04-windows-daylighting/files' with source '/var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/files'
+[synchDirStructures] <-1> Synching destination '/Users/nlong/working/personal/School/CVEN5830-SBD/Assignment-3/model/04-windows-daylighting/run' with source '/var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run'
+[synchDirStructures] <-1> Synching destination '/Users/nlong/working/personal/School/CVEN5830-SBD/Assignment-3/model/04-windows-daylighting/run/0-Null' with source '/var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/0-Null'
+[synchDirStructures] <-1> Synching destination '/Users/nlong/working/personal/School/CVEN5830-SBD/Assignment-3/model/04-windows-daylighting/run/1-ModelToIdf-0' with source '/var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/1-ModelToIdf-0'
+[synchDirStructures] <-1> Synching destination '/Users/nlong/working/personal/School/CVEN5830-SBD/Assignment-3/model/04-windows-daylighting/run/2-ExpandObjects-0' with source '/var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/2-ExpandObjects-0'
+[synchDirStructures] <-1> Synching destination '/Users/nlong/working/personal/School/CVEN5830-SBD/Assignment-3/model/04-windows-daylighting/run/3-UserScript-0' with source '/var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/3-UserScript-0'
+[synchDirStructures] <-1> Synching destination '/Users/nlong/working/personal/School/CVEN5830-SBD/Assignment-3/model/04-windows-daylighting/run/4-EnergyPlusPreProcess-0' with source '/var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/4-EnergyPlusPreProcess-0'
+[synchDirStructures] <-1> Synching destination '/Users/nlong/working/personal/School/CVEN5830-SBD/Assignment-3/model/04-windows-daylighting/run/5-EnergyPlus-0' with source '/var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/5-EnergyPlus-0'
+[synchDirStructures] <-1> Synching destination '/Users/nlong/working/personal/School/CVEN5830-SBD/Assignment-3/model/04-windows-daylighting/run/6-UserScript-0' with source '/var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/6-UserScript-0'
+[synchDirStructures] <-1> Synching destination '/Users/nlong/working/personal/School/CVEN5830-SBD/Assignment-3/model/04-windows-daylighting/run/7-OpenStudioPostProcess-0' with source '/var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/run/7-OpenStudioPostProcess-0'
+[synchDirStructures] <-1> Synching destination '/Users/nlong/working/personal/School/CVEN5830-SBD/Assignment-3/model/04-windows-daylighting/scripts' with source '/var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/scripts'
+[copyDir] <-1> copyDir '/var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/files' to '/Users/nlong/working/personal/School/CVEN5830-SBD/Assignment-3/model/04-windows-daylighting/files'
+[synchDirStructures] <-1> Synching destination '/Users/nlong/working/personal/School/CVEN5830-SBD/Assignment-3/model/04-windows-daylighting/files' with source '/var/folders/ry/9qrp5ths0g13dj7j20c3c_x93s6z2r/T/OpenStudio.u36827/resources/files'
