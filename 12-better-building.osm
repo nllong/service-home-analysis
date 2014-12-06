@@ -6043,12 +6043,12 @@ OS:SpaceInfiltration:DesignFlowRate,
   90.1-2007 - MidriseApartment - Apartment Infiltration, !- Name
   {cdad04c6-60e0-427d-8a8d-6a72b04e3cbe}, !- Space or SpaceType Name
   ,                                       !- Schedule Name
-  Flow/ExteriorArea,                      !- Design Flow Rate Calculation Method
+  AirChanges/Hour,                        !- Design Flow Rate Calculation Method
   ,                                       !- Design Flow Rate {m3/s}
   ,                                       !- Flow per Space Floor Area {m3/s-m2}
-  0.000226568,                            !- Flow per Exterior Surface Area {m3/s-m2}
-  ,                                       !- Air Changes per Hour {1/hr}
-  ,                                       !- Constant Term Coefficient
+  0,                                      !- Flow per Exterior Surface Area {m3/s-m2}
+  0.55,                                   !- Air Changes per Hour {1/hr}
+  1,                                      !- Constant Term Coefficient
   ,                                       !- Temperature Term Coefficient
   ,                                       !- Velocity Term Coefficient
   ;                                       !- Velocity Squared Term Coefficient
@@ -7062,8 +7062,8 @@ OS:Material,
   {f0e4ab54-b2b2-40f9-aef1-b06dc9976457}, !- Handle
   Steel Frame Wall Insulation R-13.81 IP, !- Name
   MediumRough,                            !- Roughness
-  0.119155449776,                         !- Thickness {m}
-  0.049,                                  !- Conductivity {W/m-K}
+  0.254,                                  !- Thickness {m}
+  0.0489999999999996,                     !- Conductivity {W/m-K}
   265,                                    !- Density {kg/m3}
   836.800000000001,                       !- Specific Heat {J/kg-K}
   0.9,                                    !- Thermal Absorptance
@@ -7088,7 +7088,7 @@ OS:Material,
   {d493c74d-c0a0-4724-8d8d-98530c8f723a}, !- Handle
   IEAD Roof Insulation R-19.72 IP,        !- Name
   MediumRough,                            !- Roughness
-  0.170137206506431,                      !- Thickness {m}
+  0.3302,                                 !- Thickness {m}
   0.049,                                  !- Conductivity {W/m-K}
   265,                                    !- Density {kg/m3}
   836.800000000001,                       !- Specific Heat {J/kg-K}
@@ -7415,7 +7415,11 @@ OS:RadianceParameters,
   146;                                    !- Sky Discretization Resolution
 
 OS:SimulationControl,
-  {cd02e720-2e2f-4eb6-a958-3fd34437613e}; !- Handle
+  {cd02e720-2e2f-4eb6-a958-3fd34437613e}, !- Handle
+  No,                                     !- Do Zone Sizing Calculation
+  No,                                     !- Do System Sizing Calculation
+  No,                                     !- Do Plant Sizing Calculation
+  No;                                     !- Run Simulation for Sizing Periods
 
 OS:Sizing:Parameters,
   {38bfad63-f407-4a12-ab55-5afa37c953af}, !- Handle
@@ -9333,7 +9337,7 @@ OS:Connection,
 OS:Boiler:HotWater,
   {af168df8-54fc-47ef-a9dc-9a8e1115bf14}, ! Handle
   HW Boiler,                              ! Name
-  Electricity,                            ! Fuel Type
+  NaturalGas,                             ! Fuel Type
   ,                                       ! Nominal Capacity {W}
   0.8,                                    ! Nominal Thermal Efficiency
   LeavingBoiler,                          ! Efficiency Curve Temperature Evaluation Variable
